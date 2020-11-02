@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 02 Nov 2020 15:50:03 at https://www.astro.umd.edu/~ricotti/NEWWEB/teaching/ASTR415/InClassExamples/NR3/index.htm +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.astro.umd.edu/~ricotti/NEWWEB/teaching/ASTR415/InClassExamples/NR3/index.htm -O1 "C:\Users\prath\Desktop\Codes\Numerical Recipies" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:50:05	Warning: 	Note: due to https://www.astro.umd.edu remote robots.txt rules, links beginning with these path will be forbidden: /apt/, /cgi-bin/, /css/, /includes/, /webdings/, /twiki/bin/, /twiki/bin/rdiff, /resources/internal/protectedfiles/ (see in the options to disable this)
+15:58:46	Error: 	"Not Found" (404) at link https://www.astro.umd.edu/~ricotti/NEWWEB/teaching/ASTR415/InClassExamples/NR3/legacy/nr2/C_211/disk.id (from https://www.astro.umd.edu/~ricotti/NEWWEB/teaching/ASTR415/InClassExamples/NR3/legacy/nr2/C_211/index.htm)
+16:02:17	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1598): https://www.astro.umd.edu/~ricotti/NEWWEB/teaching/ASTR415/InClassExamples/NR3/unsupported/Java_304/test/com/nr/test/test_chapter3/Test_Bilin_interp.java
+16:04:39	Error: 	"Not Found" (404) at link https://www.astro.umd.edu/~ricotti/NEWWEB/teaching/ASTR415/InClassExamples/NR3/unsupported/Java_304/test/com/nr/test/test_chapter22/PSplot_output.ps (from https://www.astro.umd.edu/~ricotti/NEWWEB/teaching/ASTR415/InClassExamples/NR3/unsupported/Java_304/test/com/nr/test/test_chapter22/Test_PSplot.java)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 36 seconds : 2640 links scanned, 2637 files written (8922472 bytes overall) [9959134 bytes received at 11368 bytes/sec], 25.2 requests per connection
+(2 errors, 2 warnings, 0 messages)
